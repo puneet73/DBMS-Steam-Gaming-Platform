@@ -1,3 +1,5 @@
+**Steam Gaming Platform DBMS Project**
+
 The Steam Gaming Platform Database Management System (DBMS) is designed to serve as the backend infrastructure for an online gaming platform. This project aims to provide a robust and scalable solution for managing various aspects of an online gaming ecosystem, including game information, user authentication, developer interactions, publisher management, and user-game interactions.
 
 The system comprises several key components:
